@@ -2,9 +2,7 @@
 
 /**
  * main - Entry point
- * 
- * Description: A C program for printf 
- *
+ * Description: A C program for printf *
  * Return: Always 0 (Success)
 */
 
